@@ -33,4 +33,11 @@ VITE_PUBLIC_KEY="public_key"
 npm run dev
 ```
 
+5. Lista de productos
+
+```bash
+[![Captura-de-pantalla-2023-01-16-230917.png](https://i.postimg.cc/gk9nRhDf/Captura-de-pantalla-2023-01-16-230917.png)](https://postimg.cc/bdTyfs4T)
+```
+
+
 Pueden verlos en su navegador en la dirección `http://localhost:3000`
