@@ -35,9 +35,9 @@ npm run dev
 
 5. Lista de productos
 
-```bash
+
 https://github.com/StefaniGonzalesL/Proyectoud6/blob/main/Captura%20de%20pantalla%202023-01-16%20230917.png
-```
+
 
 
 Pueden verlos en su navegador en la dirección `http://localhost:3000`
