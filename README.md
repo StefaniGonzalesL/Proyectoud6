@@ -11,3 +11,4 @@ https://github.com/StefaniGonzalesL/Proyectoud6/blob/main/Captura%20de%20pantall
 
 3. Metodo post
 
+https://github.com/StefaniGonzalesL/Proyectoud6/blob/main/metodopost.png
