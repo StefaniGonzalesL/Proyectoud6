@@ -36,7 +36,7 @@ npm run dev
 5. Lista de productos
 
 ```bash
-[![Captura-de-pantalla-2023-01-16-230917.png](https://i.postimg.cc/gk9nRhDf/Captura-de-pantalla-2023-01-16-230917.png)](https://postimg.cc/bdTyfs4T)
+<a href='https://postimg.cc/bdTyfs4T' target='_blank'><img src='https://i.postimg.cc/gk9nRhDf/Captura-de-pantalla-2023-01-16-230917.png' border='0' alt='Captura-de-pantalla-2023-01-16-230917'/></a>
 ```
 
 
